@@ -1,8 +1,8 @@
 # trivia
 
-A game with trivia questions, fetched from jService.io.
-
 Trivia
+
+A game with trivia questions, fetched from jService.io.
 
 Usage
 - This game app asks you trivia questions fetched from jService.io. The player can enter his name to
