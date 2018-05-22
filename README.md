@@ -1,5 +1,4 @@
 # trivia
-# Philine Wairata
 
 A game with trivia questions, fetched from jService.io.
 
