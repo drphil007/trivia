@@ -3,7 +3,6 @@
 A game with trivia questions, fetched from jService.io.
 
 Trivia
-App with trivia questions fetched from jService.io/app/random. Made in Xcode 9.2
 
 Usage
 - This game app asks you trivia questions fetched from jService.io. The player can enter his name to
