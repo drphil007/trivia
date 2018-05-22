@@ -7,7 +7,25 @@
 		<key>trivia.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>15E458A820AC30C2000B55C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>15E458BC20AC30C4000B55C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>15E458C720AC30C4000B55C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
